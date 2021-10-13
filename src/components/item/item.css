@@ -1,0 +1,28 @@
+button{
+    cursor: pointer;
+    background-color: black;
+    color: blanchedalmond;
+    padding: 2px 5px;
+    transition: .3s;
+}
+button:hover{
+    color: red;
+}
+.form{
+    max-width: 400px;
+    padding: 20px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px 1px black;
+    float: left;
+}
+.modal{
+    padding: 20px;
+    background-color: burlywood;
+    text-align: start;
+}
+
+.x{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
